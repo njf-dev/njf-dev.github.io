@@ -1,1 +1,1 @@
-{"config":{"lang":["ja"],"separator":"[\\s\\-\uff0c\u3002]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"\u519c\u5377\u98ce\u6280\u672f\u6587\u6863","text":"<p>\u8bf7\u8bbf\u95ee \u519c\u5377\u98ce\u5b98\u7f51</p>"}]}
+{"config":{"lang":["ja"],"separator":"[\\s\\-\uff0c\u3002]+","pipeline":["stemmer"]},"docs":[{"location":"","title":"\u519c\u5377\u98ce\u6280\u672f\u6587\u6863","text":"<p>\u8bf7\u8bbf\u95ee \u519c\u5377\u98ce\u5b98\u7f51</p> <p>\u8bf7\u8bbf\u95ee \u519c\u5377\u98ce GitHub</p> <p>\u4e0b\u8f7d\u519c\u5377\u98ce app</p>"}]}
